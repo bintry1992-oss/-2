@@ -1,0 +1,6 @@
+{
+  "name": "简约时钟",
+  "description": "一个简约、轻量级的时钟与闹钟应用，支持触摸手势亮度调节、自定义合成/系统铃声、实时日期与卡片天气信息，并针对夜间使用集成了精细的深色防蓝光模式。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
